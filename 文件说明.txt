@@ -1,0 +1,48 @@
+ 
+agreement   协议文件 :
+          registar.html       注册页的注册服务协议
+          register.html        app里的注册协议
+
+ order  订单文件 ： 
+            store_order_apply.html        借款申请页面
+            store_order_detail.html        订单详情页面
+            store_order_history.html      订单记录页面
+            store_order_repay.html        合利宝还款验证码页面
+            store_pay_return.html          还款成功页面
+            store_select_by.html             选择还款方式页面
+            store_select_fuyou.html       富友还款页面
+            store_select_huiju.html        汇聚还款页面
+
+ register 注册页文件 ： 
+ 
+               explain文件夹内： 
+                           guide.html         ios下载引导说明页面
+                           guidea.html       华为下载说明页面
+             
+             static  注册静态资源文件 ：
+                           js文件  ：
+                                    common.js    全局方法函数封装
+
+             guide_malihuishou.html     h5下载页
+             malihuishou.html               h5注册页
+
+ static存放静态资源文件  ：   
+                js 文件：
+                            bridge.js             与原生交互的js
+                            common.js         全局方法函数封装
+              
+ user 用户认证文件： 
+                 bank_card_bind.html       添加银行卡 页面
+                 bank_card_code.html      绑卡验证码 页面
+                 bank_card.html               我的银行卡 页面 
+                 cert_center.html              认证中心页面
+
+
+   help_center.html            帮助中心页面
+   article.html                    帮助中心详情页面
+   market_out.html            外部贷款超市页面
+   market.html                   内部贷款超市页面
+   blank.html                     空白页
+
+
+
