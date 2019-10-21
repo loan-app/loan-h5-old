@@ -1,48 +1,48 @@
- 
-agreement   Ğ­ÒéÎÄ¼ş :
-          registar.html       ×¢²áÒ³µÄ×¢²á·şÎñĞ­Òé
-          register.html        appÀïµÄ×¢²áĞ­Òé
 
- order  ¶©µ¥ÎÄ¼ş £º 
-            store_order_apply.html        ½è¿îÉêÇëÒ³Ãæ
-            store_order_detail.html        ¶©µ¥ÏêÇéÒ³Ãæ
-            store_order_history.html      ¶©µ¥¼ÇÂ¼Ò³Ãæ
-            store_order_repay.html        ºÏÀû±¦»¹¿îÑéÖ¤ÂëÒ³Ãæ
-            store_pay_return.html          »¹¿î³É¹¦Ò³Ãæ
-            store_select_by.html             Ñ¡Ôñ»¹¿î·½Ê½Ò³Ãæ
-            store_select_fuyou.html       ¸»ÓÑ»¹¿îÒ³Ãæ
-            store_select_huiju.html        »ã¾Û»¹¿îÒ³Ãæ
+agreement   åè®®æ–‡ä»¶ :
+          registar.html       æ³¨å†Œé¡µçš„æ³¨å†ŒæœåŠ¡åè®®
+          register.html        appé‡Œçš„æ³¨å†Œåè®®
 
- register ×¢²áÒ³ÎÄ¼ş £º 
- 
-               explainÎÄ¼ş¼ĞÄÚ£º 
-                           guide.html         iosÏÂÔØÒıµ¼ËµÃ÷Ò³Ãæ
-                           guidea.html       »ªÎªÏÂÔØËµÃ÷Ò³Ãæ
-             
-             static  ×¢²á¾²Ì¬×ÊÔ´ÎÄ¼ş £º
-                           jsÎÄ¼ş  £º
-                                    common.js    È«¾Ö·½·¨º¯Êı·â×°
+ order  è®¢å•æ–‡ä»¶ ï¼š
+            store_order_apply.html        å€Ÿæ¬¾ç”³è¯·é¡µé¢
+            store_order_detail.html        è®¢å•è¯¦æƒ…é¡µé¢
+            store_order_history.html      è®¢å•è®°å½•é¡µé¢
+            store_order_repay.html        åˆåˆ©å®è¿˜æ¬¾éªŒè¯ç é¡µé¢
+            store_pay_return.html          è¿˜æ¬¾æˆåŠŸé¡µé¢
+            store_select_by.html             é€‰æ‹©è¿˜æ¬¾æ–¹å¼é¡µé¢
+            store_select_fuyou.html       å¯Œå‹è¿˜æ¬¾é¡µé¢
+            store_select_huiju.html        æ±‡èšè¿˜æ¬¾é¡µé¢
 
-             guide_malihuishou.html     h5ÏÂÔØÒ³
-             malihuishou.html               h5×¢²áÒ³
+ register æ³¨å†Œé¡µæ–‡ä»¶ ï¼š
 
- static´æ·Å¾²Ì¬×ÊÔ´ÎÄ¼ş  £º   
-                js ÎÄ¼ş£º
-                            bridge.js             ÓëÔ­Éú½»»¥µÄjs
-                            common.js         È«¾Ö·½·¨º¯Êı·â×°
-              
- user ÓÃ»§ÈÏÖ¤ÎÄ¼ş£º 
-                 bank_card_bind.html       Ìí¼ÓÒøĞĞ¿¨ Ò³Ãæ
-                 bank_card_code.html      °ó¿¨ÑéÖ¤Âë Ò³Ãæ
-                 bank_card.html               ÎÒµÄÒøĞĞ¿¨ Ò³Ãæ 
-                 cert_center.html              ÈÏÖ¤ÖĞĞÄÒ³Ãæ
+               explainæ–‡ä»¶å¤¹å†…ï¼š
+                           guide.html         iosä¸‹è½½å¼•å¯¼è¯´æ˜é¡µé¢
+                           guidea.html       åä¸ºä¸‹è½½è¯´æ˜é¡µé¢
+
+             static  æ³¨å†Œé™æ€èµ„æºæ–‡ä»¶ ï¼š
+                           jsæ–‡ä»¶  ï¼š
+                                    common.js    å…¨å±€æ–¹æ³•å‡½æ•°å°è£…
+
+             guide_malihuishou.html     h5ä¸‹è½½é¡µ
+             malihuishou.html               h5æ³¨å†Œé¡µ
+
+ staticå­˜æ”¾é™æ€èµ„æºæ–‡ä»¶  ï¼š
+                js æ–‡ä»¶ï¼š
+                            bridge.js             ä¸åŸç”Ÿäº¤äº’çš„js
+                            common.js         å…¨å±€æ–¹æ³•å‡½æ•°å°è£…
+
+ user ç”¨æˆ·è®¤è¯æ–‡ä»¶ï¼š
+                 bank_card_bind.html       æ·»åŠ é“¶è¡Œå¡ é¡µé¢
+                 bank_card_code.html      ç»‘å¡éªŒè¯ç  é¡µé¢
+                 bank_card.html               æˆ‘çš„é“¶è¡Œå¡ é¡µé¢
+                 cert_center.html              è®¤è¯ä¸­å¿ƒé¡µé¢
 
 
-   help_center.html            °ïÖúÖĞĞÄÒ³Ãæ
-   article.html                    °ïÖúÖĞĞÄÏêÇéÒ³Ãæ
-   market_out.html            Íâ²¿´û¿î³¬ÊĞÒ³Ãæ
-   market.html                   ÄÚ²¿´û¿î³¬ÊĞÒ³Ãæ
-   blank.html                     ¿Õ°×Ò³
+   help_center.html            å¸®åŠ©ä¸­å¿ƒé¡µé¢
+   article.html                    å¸®åŠ©ä¸­å¿ƒè¯¦æƒ…é¡µé¢
+   market_out.html            å¤–éƒ¨è´·æ¬¾è¶…å¸‚é¡µé¢
+   market.html                   å†…éƒ¨è´·æ¬¾è¶…å¸‚é¡µé¢
+   blank.html                     ç©ºç™½é¡µ
 
 
 
