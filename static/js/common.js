@@ -12,12 +12,11 @@ window.addEventListener("resize", add, false) //屏幕改变事件
 function apiDomain() {
 	var hostname = window.location.hostname;
 	var port = window.location.port;
-	return 'http://47.111.176.27:10002/'
-	// if(hostname == "") {  // 正式的
-	// 	return "";  // 测试的
-	// } else {
-	// 	return ""; // 测试的
-	// }
+	if(hostname == "") {  // 正式的
+		return "";  // 测试的
+	} else {
+		return ""; // 测试的
+	}
 }
 
 //页面域名
@@ -57,7 +56,7 @@ function GetQueryString(name) { // 截取url的字段
 }
 
 function GetRequest() {
-	var url = location.search; //获取url中"?"符后的字串
+	var url = location.search; //获取url中"?"符后的字串 
 	var theRequest = new Object();
 	if(url.indexOf("?") != -1) {
 		var str = url.substr(1);
